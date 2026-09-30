@@ -1,4 +1,3 @@
-[FİZİKSEL_PROGRAMLAMA_1.py](https://github.com/user-attachments/files/32853742/FIZIKSEL_PROGRAMLAMA_1.py)
 print("==============================================================")
 print("       GÜNE ÖZEL KAMPÜS VERİMLİLİK VE ZAMAN TASARIMCISI       ")
 print("==============================================================")
