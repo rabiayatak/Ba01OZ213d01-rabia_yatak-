@@ -1,4 +1,4 @@
-# Ba01OZ213d01-rabia_yatak-
+# Ba01OZ213d01(rabia_yatak)
 Gün Verimlilik Analizi Python Kodlama Uygulaması 
 
 Ele Alınan Problem: Üniversite öğrencilerinin ders aralarındaki "atıl/ölü zamanları" (eve dönmek için kısa, beklemek için uzun olan saatleri) planlayamaması ve ulaşım süresiyle birleşen "görünmez mesai" yüzünden akşam saatlerinde yaşadıkları zihinsel tükenmişlik.
